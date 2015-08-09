@@ -5,6 +5,7 @@ None of this code is commented at all. This was written in a handful of minutes 
 
 ## Usage
 ```sh
+$ gcc DetectFour.c
 $ cat sample.txt | ./a.out 
 25
 $ cat sample2.txt | ./a.out 
